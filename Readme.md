@@ -1,23 +1,16 @@
-# _SRT Subtitle Reminder_
+# SRT Subtitle Reminder
 
-_Description: This mini project consists of a SRT subtitle file which can be used to remind one of various excercises during watching a movie. Its original intention is to remind one of doing [Kegel Excercises](https://en.wikipedia.org/wiki/Kegel_exercise)_
+_Description: This mini project consists of a SRT subtitle file which can be used to remind one of various excercises during watching a movie. Its original intention is to remind one of doing [Kegel Excercises](https://en.wikipedia.org/wiki/Kegel_exercise)._
 
 ## How to use it
 
 _Written for non-nerds_ 
 
-1. Download this file (right click -> save as...) to your computer
-2. 
+1. Download [this file](https://github.com/stnwbr/srt-subtitle-reminder/blob/master/subtitle-reminder.srt) (right click -> save as...) to your computer
+2. Open the movie you want to watch in a videoplayer which supports the use of SRT subtitles, e.g. [VLC Player](http://videolan.org)
+3. Open the subtitle file. This often works via drag and drop, or in VLC also via 'Video -> Subtitles Track -> Open File...'
 
-## Troubleshooting & Useful Tools
-
-_Examples of common tasks_
-
-> e.g.
-> 
-> - How to make curl requests while authenticated via oauth.
-> - How to monitor background jobs.
-> - How to run the app through a proxy.
+Alternatively you can also rename the subtitle file according to your movie file, so when the movie is called 'movie.avi', rename the subtitle file to 'movie.srt'. When those two files are placed in the same folder, most movie players automatically assiciate the subtitle file.
 
 ## License
 
