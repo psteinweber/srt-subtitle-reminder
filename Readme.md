@@ -4,7 +4,7 @@ _Description: This mini project consists of a SRT subtitle file which can be use
 
 ## How to use it
 
-1. Download [this file](https://github.com/stnwbr/srt-subtitle-reminder/blob/master/subtitle-reminder.srt) (`right click -> save as...`) to your computer
+1. Download [this file](https://raw.github.com/stnwbr/srt-subtitle-reminder/master/subtitle-reminder.srt) (`right click -> save as...`) to your computer
 2. Open the movie you want to watch in a videoplayer which supports the use of SRT subtitles, e.g. [VLC Player](http://videolan.org)
 3. Open the subtitle file. This often works via drag and drop, or in VLC also via `Video -> Subtitles Track -> Open File...`
 
