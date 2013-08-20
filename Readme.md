@@ -1,3 +1,5 @@
+![SQUEEZE](https://raw.github.com/stnwbr/srt-subtitle-reminder/master/squeeze.jpg)
+
 # SRT Subtitle Reminder
 
 _Description: This mini project consists of a SRT subtitle file which can be used to remind one of various excercises during watching a movie. Its original intention is to remind one of doing [Kegel Excercises](https://en.wikipedia.org/wiki/Kegel_exercise)._
