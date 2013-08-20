@@ -1,0 +1,79 @@
+1
+00:00:01,000 --> 00:01:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+2
+00:10:01,000 --> 00:11:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+3
+00:20:01,000 --> 00:21:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+4
+00:30:01,000 --> 00:31:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+5
+00:40:01,000 --> 00:41:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+6
+00:50:01,000 --> 00:51:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+7
+01:00:01,000 --> 01:01:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+8
+01:10:01,000 --> 01:11:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+9
+01:20:01,000 --> 01:21:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+10
+01:30:01,000 --> 01:31:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+11
+01:40:01,000 --> 01:41:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+12
+01:50:01,000 --> 01:51:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+13
+02:00:01,000 --> 02:01:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+14
+02:10:01,000 --> 02:11:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+15
+02:20:01,000 --> 02:21:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+16
+02:30:01,000 --> 02:31:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+17
+02:40:01,000 --> 02:41:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+18
+02:50:01,000 --> 02:51:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+19
+03:00:01,000 --> 03:01:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
+
+20
+03:10:01,000 --> 03:11:01,000
+<b><font color="#00ff00">SQUEEZE!</font></b>
