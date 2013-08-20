@@ -12,6 +12,15 @@ _Written for non-nerds_
 
 Alternatively you can also rename the subtitle file according to your movie file, so when the movie is called 'movie.avi', rename the subtitle file to 'movie.srt'. When those two files are placed in the same folder, most movie players automatically assiciate the subtitle file.
 
+## Background
+
+I created this little helper for my personal Kegel excercises and share it regularely with students of Tantra workshops. 
+Kegel excercises are incredibly useful for sexual health and performance and worth trying out.
+
+## How to customize the message
+
+Simply open the .srt file with a text editor and 'search and replace' the current 'SQUEEZE!' text. As I said, it's a really simple project :)
+
 ## License
 
 (The MIT License)
