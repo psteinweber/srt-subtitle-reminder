@@ -4,22 +4,20 @@ _Description: This mini project consists of a SRT subtitle file which can be use
 
 ## How to use it
 
-_Written for non-nerds_ 
-
-1. Download [this file](https://github.com/stnwbr/srt-subtitle-reminder/blob/master/subtitle-reminder.srt) (right click -> save as...) to your computer
+1. Download [this file](https://github.com/stnwbr/srt-subtitle-reminder/blob/master/subtitle-reminder.srt) (`right click -> save as...`) to your computer
 2. Open the movie you want to watch in a videoplayer which supports the use of SRT subtitles, e.g. [VLC Player](http://videolan.org)
 3. Open the subtitle file. This often works via drag and drop, or in VLC also via `Video -> Subtitles Track -> Open File...`
 
-Alternatively you can also rename the subtitle file according to your movie file, so when the movie is called 'movie.avi', rename the subtitle file to `movie.srt`. When those two files are placed in the same folder, most movie players automatically assiciate the subtitle file.
+Alternatively you can also rename the subtitle file according to your movie file, so when the movie is called `movie.avi`, rename the subtitle file to `movie.srt`. When those two files are placed in the same folder, most movie players automatically assiciate the subtitle file.
 
 ## Background
 
 I created this little helper for my personal Kegel excercises and share it regularely with students of Tantra workshops. 
-Kegel excercises are incredibly useful for sexual health and performance and worth trying out.
+Kegel excercises are incredibly useful for sexual health and performance and worth trying out. Ask your favorite search engine for more information.
 
 ## How to customize the message
 
-Simply open the .srt file with a text editor and 'search and replace' the current 'SQUEEZE!' text. As I said, it's a really simple project :)
+Simply open the .srt file with a text editor and 'search and replace' the current `SQUEEZE!` text. As I said, it's a really simple project :)
 
 ## License
 
